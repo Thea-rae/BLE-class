@@ -1,4 +1,4 @@
-# ITP | Bluetooth LE
+# ITP | Bluetooth LE (Read me from Don https://github.com/don/ITP-BluetoothLE)
 
 [Syllabus](https://docs.google.com/document/d/1DrpgcisR5NOQvHqNyCjn1jvErz5e1O4rcas1i0u0kCU/edit)
 
@@ -14,7 +14,3 @@
   * [Week 1 - Build Bluetooth LE Peripheral](Assignment_1.md)
   * [Week 2 - Build Bluetooth LE Phone App](Assignment_2.md)
 
-## Office Hours
- * Feb 12th - 1PM to 3PM
- * Feb 19th - 1PM to 3PM
- * via [email](mailto:dc159@nyu.edu)
